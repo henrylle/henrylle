@@ -29,9 +29,7 @@
 
 Atuo com **educação prática em cloud computing**, ajudando profissionais de tecnologia a construir portfólio, ganhar confiança técnica e evoluir na carreira com projetos aplicados na AWS.
 
-Meu trabalho é transformar aprendizado em execução, priorizando prática, contexto real e desenvolvimento técnico contínuo.
-
-Como **AWS Community Builder**, também contribuo ativamente para o ecossistema cloud com conteúdo, projetos e iniciativas voltadas à comunidade.
+Como **AWS Community Builder**, contribuo ativamente para o ecossistema cloud com conteúdo, projetos e iniciativas voltadas à comunidade.
 
 ---
 
@@ -39,9 +37,9 @@ Como **AWS Community Builder**, também contribuo ativamente para o ecossistema 
 
 A **Formação AWS** é meu principal projeto educacional, criado para ajudar profissionais de tecnologia a sair da teoria e desenvolver experiência prática em cloud computing.
 
-A proposta da formação é construir base técnica, repertório prático e capacidade real de execução na AWS, por meio de uma metodologia orientada a desafios e projetos aplicados.
+A jornada foi estruturada para desenvolver base técnica, repertório prático e capacidade real de execução na AWS, por meio de uma metodologia orientada a desafios e projetos aplicados.
 
-A jornada inclui:
+Ela inclui:
 
 - **2 anos de acesso** ao conteúdo com atualizações
 - **8 meses de mentoria**
@@ -51,15 +49,13 @@ A jornada inclui:
 - **comunidade ativa** para suporte e troca de experiências
 - direcionamento para transformar os desafios em **portfólio e visibilidade no LinkedIn**
 
-A estrutura da formação foi pensada para acompanhar diferentes momentos de carreira, começando por fundamentos e preparação técnica, passando por base em AWS, Linux e shell script, e evoluindo para desafios práticos de mercado.
-
-Ao longo da mentoria, os alunos enfrentam desafios em níveis progressivos, com temas recorrentes como infraestrutura, redes, automação, pipeline e infraestrutura como código.
+A estrutura acompanha diferentes momentos de carreira, começando por fundamentos e preparação técnica, passando por base em AWS, Linux e shell script, e evoluindo para desafios práticos de mercado.
 
 O objetivo não é apenas ensinar AWS, mas desenvolver profissionais capazes de implementar, publicar, comunicar e sustentar projetos reais na nuvem.
 
 ---
 
-## Resultados gerados
+## Impacto gerado
 
 A Formação AWS tem ajudado profissionais a:
 
@@ -69,26 +65,6 @@ A Formação AWS tem ajudado profissionais a:
 - publicar projetos e desafios no LinkedIn
 - ganhar mais visibilidade profissional
 - evoluir tecnicamente com foco no mercado
-
-Mais do que ensinar serviços da AWS, a proposta é gerar desenvolvimento técnico com aplicação prática e conexão direta com a realidade do mercado.
-
----
-
-## Metodologia
-
-A Formação AWS foi desenhada para transformar aprendizado em execução.
-
-A metodologia combina:
-
-- fundamentos técnicos
-- desafios progressivos
-- projetos aplicados
-- acompanhamento ao vivo
-- prática orientada por cenários reais
-- construção de portfólio
-- incentivo à exposição profissional no LinkedIn
-
-Essa abordagem ajuda o aluno a desenvolver não apenas conhecimento sobre AWS, mas também capacidade de entrega, comunicação técnica e posicionamento profissional.
 
 ---
 
@@ -104,6 +80,15 @@ Aqui compartilho projetos, estudos e materiais relacionados a:
 - redes na AWS
 - observabilidade
 - projetos usados em treinamentos e conteúdos educacionais
+
+---
+
+## Conteúdos em destaque no YouTube
+
+- [AWS & IA na prática](https://www.youtube.com/playlist?list=PL1GKfF64-2s32JlBo6fSsv84h61yMy2wm)
+- [Segurança na AWS](https://www.youtube.com/playlist?list=PL1GKfF64-2s0AvwC0B-RaNYHDy09bEVnZ)
+- [Otimização e redução de custos na AWS](https://www.youtube.com/playlist?list=PL1GKfF64-2s1ajio2i_p0Dcyui9R2d6sY)
+- [Resultados de alunos e estudos de caso](https://www.youtube.com/playlist?list=PL1GKfF64-2s2P2o-MgFvky-1vNQxntLDT)
 
 ---
 
@@ -129,11 +114,7 @@ Aqui compartilho projetos, estudos e materiais relacionados a:
 
 ## Projetos em destaque
 
-- Projetos práticos com AWS
-- Deploy de aplicações em cloud
-- Laboratórios voltados para portfólio
-- Arquiteturas usadas em conteúdos e treinamentos
-- Estudos aplicados de automação e troubleshooting
+- [**BIA**](https://github.com/henrylle/bia) — projeto educacional utilizado em eventos e treinamentos práticos, com foco em desenvolvimento, banco de dados, Docker, migrations e deploy na AWS com ECR, ECS e fluxo de CI/CD.
 
 ---
 
