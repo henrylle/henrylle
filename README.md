@@ -1,11 +1,11 @@
 <h1 align="center">Henrylle Maia</h1>
 
 <p align="center">
-  <strong>AWS Community Builder</strong> • Criador da <strong>Formação AWS</strong> • Educação prática em Cloud
+  <strong>AWS Community Builder</strong> • Criador da <strong>Formação AWS</strong>
 </p>
 
 <p align="center">
-  Ajudo profissionais de tecnologia a saírem da teoria e desenvolverem experiência prática com AWS por meio de projetos reais, desafios aplicados e uma metodologia focada em execução e mercado.
+  Educação prática em AWS para quem quer sair da teoria e ganhar experiência real em cloud.
 </p>
 
 <p align="center">
@@ -90,9 +90,9 @@ Aqui compartilho projetos, estudos e materiais relacionados a:
   <img src="https://img.shields.io/badge/Route%2053-4053D6?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/VPC-1A73E8?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20CodePipeline-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/CI%2FCD-0F172A?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deploy%20na%20AWS-0F172A?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
 
 ---
