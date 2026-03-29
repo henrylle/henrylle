@@ -24,7 +24,7 @@
 
 ## Sobre mim
 
-Atuo com **educação prática em cloud computing**, ajudando profissionais a construir portfólio, ganhar confiança técnica e evoluir na carreira com projetos aplicados na AWS.
+Atuo com **educação prática em cloud computing**, ajudando profissionais de tecnologia a construir portfólio, ganhar confiança técnica e evoluir na carreira com projetos aplicados na AWS.
 
 Meu trabalho é transformar aprendizado em execução, priorizando prática, contexto real e desenvolvimento técnico contínuo.
 
@@ -34,18 +34,25 @@ Como **AWS Community Builder**, também contribuo ativamente para o ecossistema 
 
 ## Sobre a Formação AWS
 
-A **Formação AWS** é um projeto educacional criado para profissionais que desejam desenvolver conhecimento prático em computação em nuvem.
+A **Formação AWS** é meu principal projeto educacional, criado para ajudar profissionais de tecnologia a sair da teoria e desenvolver experiência prática em cloud computing.
 
-A metodologia foi construída para ajudar o aluno a ir além da teoria, com foco em:
+A proposta da formação é construir base técnica, repertório prático e capacidade real de execução na AWS, por meio de uma metodologia orientada a desafios e projetos aplicados.
 
-- desafios práticos
-- projetos aplicados
-- laboratórios
-- acompanhamento
-- comunidade
-- construção de portfólio com AWS
+A jornada inclui:
 
-Mais do que ensinar serviços da AWS, a proposta é desenvolver capacidade real de **construção, deploy, troubleshooting e evolução profissional**.
+- **2 anos de acesso** ao conteúdo com atualizações
+- **8 meses de mentoria**
+- **desafios semanais** desde os fundamentos
+- **laboratórios práticos**
+- **encontros quinzenais ao vivo**
+- **comunidade ativa** para suporte e troca de experiências
+- direcionamento para transformar os desafios em **portfólio e visibilidade no LinkedIn**
+
+A estrutura da formação foi pensada para acompanhar diferentes momentos de carreira, começando por fundamentos e preparação técnica, passando por base em AWS, Linux e shell script, e evoluindo para desafios práticos de mercado.
+
+Ao longo da mentoria, os alunos enfrentam desafios em níveis progressivos, com temas recorrentes como infraestrutura, redes, automação, pipeline e infraestrutura como código.
+
+O objetivo não é apenas ensinar AWS, mas desenvolver profissionais capazes de implementar, publicar, comunicar e sustentar projetos reais na nuvem.
 
 ---
 
@@ -59,6 +66,26 @@ A Formação AWS tem ajudado profissionais a:
 - publicar projetos e desafios no LinkedIn
 - ganhar mais visibilidade profissional
 - evoluir tecnicamente com foco no mercado
+
+Mais do que ensinar serviços da AWS, a proposta é gerar desenvolvimento técnico com aplicação prática e conexão direta com a realidade do mercado.
+
+---
+
+## Metodologia
+
+A Formação AWS foi desenhada para transformar aprendizado em execução.
+
+A metodologia combina:
+
+- fundamentos técnicos
+- desafios progressivos
+- projetos aplicados
+- acompanhamento ao vivo
+- prática orientada por cenários reais
+- construção de portfólio
+- incentivo à exposição profissional no LinkedIn
+
+Essa abordagem ajuda o aluno a desenvolver não apenas conhecimento sobre AWS, mas também capacidade de entrega, comunicação técnica e posicionamento profissional.
 
 ---
 
