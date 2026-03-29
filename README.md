@@ -9,15 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/henrylle/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Henrylle%20Maia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/henryllemaia" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@henryllemaia-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://youtube.com/@henryllemaia" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-@henryllemaia-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/LinkedIn-Henrylle%20Maia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Instagram-@henryllemaia-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/YouTube-@henryllemaia-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </p>
 
 ---
@@ -136,8 +130,6 @@ Aqui compartilho projetos, estudos e materiais relacionados a:
 
 ## Conecte-se comigo
 
-<p>
-  <a href="https://www.linkedin.com/in/henrylle/" target="_blank">LinkedIn</a> •
-  <a href="https://instagram.com/henryllemaia" target="_blank">Instagram</a> •
-  <a href="https://youtube.com/@henryllemaia" target="_blank">YouTube</a>
-</p>
+- LinkedIn: https://www.linkedin.com/in/henrylle/
+- Instagram: https://instagram.com/henryllemaia
+- YouTube: https://youtube.com/@henryllemaia
