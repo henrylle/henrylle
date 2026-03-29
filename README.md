@@ -9,9 +9,18 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-Henrylle%20Maia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Instagram-@henryllemaia-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  <img src="https://img.shields.io/badge/YouTube-@henryllemaia-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  <a href="https://www.linkedin.com/in/henrylle/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Henrylle%20Maia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/henryllemaia" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@henryllemaia-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://youtube.com/@henryllemaia" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-@henryllemaia-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://pages.formacaoaws.com.br/" target="_blank">
+    <img src="https://img.shields.io/badge/Site-Forma%C3%A7%C3%A3o%20AWS-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -130,6 +139,7 @@ Aqui compartilho projetos, estudos e materiais relacionados a:
 
 ## Conecte-se comigo
 
-- LinkedIn: https://www.linkedin.com/in/henrylle/
-- Instagram: https://instagram.com/henryllemaia
-- YouTube: https://youtube.com/@henryllemaia
+- LinkedIn: [linkedin.com/in/henrylle](https://www.linkedin.com/in/henrylle/)
+- Instagram: [instagram.com/henryllemaia](https://instagram.com/henryllemaia)
+- YouTube: [youtube.com/@henryllemaia](https://youtube.com/@henryllemaia)
+- Site: [pages.formacaoaws.com.br](https://pages.formacaoaws.com.br/)
